@@ -85,6 +85,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: OpenSCAD 
+        level: 30%
+        
       - name: Python 
         level: 20%
 
